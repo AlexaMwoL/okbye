@@ -1,11 +1,11 @@
 {
-  "name": "x-asena",
+  "name": "okbye",
   "description": "X-asena Multi Device whatsappbot",
   "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Neeraj-x0/x-asena",
-  "website": "https://github.com/Neeraj-x0/x-asena",
-  "success_url": "https://github.com/Neeraj-x0/x-asena",
+  "repository": "https://github.com/AlexaMwoL/okbye",
+  "website": "https://github.com/AlexaMwoL/okbye",
+  "success_url": "https://github.com/AlexaMwoL/okbye",
   "stack": "container",
   "env": {
     "ANTI_LINK": {
